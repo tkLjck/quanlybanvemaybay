@@ -1,0 +1,12 @@
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\bin\Debug\QuanLyBanVeMayBay.exe.config
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\bin\Debug\QuanLyBanVeMayBay.exe
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\bin\Debug\QuanLyBanVeMayBay.pdb
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.fLogin.resources
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.Properties.Resources.resources
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.csproj.GenerateResource.cache
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.csproj.CoreCompileInputs.cache
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.exe
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.pdb
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.fTableManager.resources
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.fAdmin.resources
+D:\Source\QuanLyBanVeMayBay\QuanLyBanVeMayBay\obj\Debug\QuanLyBanVeMayBay.csprojAssemblyReference.cache
